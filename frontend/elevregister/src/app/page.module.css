@@ -1,0 +1,30 @@
+/* styles/Page.module.css */
+
+.page {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    background-color: black; /* fallback background */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Optional: Give particles full area coverage */
+  .particles {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+  }
+  
+  /* If you want to place content above the particles */
+  .content {
+    position: relative;
+    z-index: 1;
+    color: white;
+    text-align: center;
+  }

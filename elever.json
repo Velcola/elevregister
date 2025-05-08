@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1746707731992,
+    "navn": "Alex",
+    "alder": "18",
+    "skole": "Bodin VGS",
+    "linje": "IT"
+  },
+  {
+    "navn": "Patrick",
+    "alder": "17",
+    "skole": "Bodin VGS",
+    "linje": "IT",
+    "id": 1746708683704
+  },
+  {
+    "navn": "Thea",
+    "alder": "18",
+    "skole": "Bodin VGS",
+    "linje": "Forskning",
+    "id": 1746708711392
+  }
+]
